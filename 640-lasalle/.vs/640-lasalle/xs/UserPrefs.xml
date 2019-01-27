@@ -1,9 +1,11 @@
 ﻿<Properties StartupConfiguration="{8EE702A1-B3B8-433C-07F1-155C889C1D5F}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GoogleVR/Scripts/GvrEditorEmulator.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Plugins/Pixelplacement/iTween/iTween.cs">
     <Files>
       <File FileName="Assets/GoogleVR/Scripts/GvrEditorEmulator.cs" Line="95" Column="23" />
       <File FileName="Assets/GoogleVR/Scripts/EventSystem/GvrPointerPhysicsRaycaster.cs" Line="1" Column="1" />
+      <File FileName="Assets/Waypoint.cs" Line="58" Column="42" />
+      <File FileName="Assets/Plugins/Pixelplacement/iTween/iTween.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
