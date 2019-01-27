@@ -23,7 +23,7 @@ MonoBehaviour:
   m_MinSize: {x: 681, y: 471}
   m_MaxSize: {x: 14002, y: 14021}
   vertical: 0
-  controlID: 9827
+  controlID: 15915
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -126,7 +126,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 471}
   m_MaxSize: {x: 10000, y: 14021}
   vertical: 1
-  controlID: 9828
+  controlID: 15892
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -150,7 +150,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 9829
+  controlID: 15893
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -203,9 +203,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 70f1ffff
-    m_LastClickedID: -3728
-    m_ExpandedIDs: aafbffffcefbffffe4fbffff000000003630000040300000d43000002e3100005231000088310000
+    m_SelectedIDs: e42f0000
+    m_LastClickedID: 12260
+    m_ExpandedIDs: ca38f6ff0ab5f9ffe4fbffff00000000be2f000036300000d43000002e3100005231000088310000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -283,14 +283,14 @@ MonoBehaviour:
     height: 514
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 48096.7949770689
+  lastFramingTime: 13233.397903084755
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 43.298874, y: -110.90445, z: 80.55267}
+    m_Target: {x: -177.78035, y: -164.93933, z: 12.791481}
     speed: 2
-    m_Value: {x: 43.298874, y: -110.90445, z: 80.55267}
+    m_Value: {x: -177.78035, y: -164.93933, z: 12.791481}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -318,13 +318,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.37650082, y: 0.20364204, z: -0.08521656, w: 0.8997307}
+    m_Target: {x: -0.29215607, y: 0.5896762, z: -0.2415751, w: -0.7131398}
     speed: 2
-    m_Value: {x: -0.37650082, y: -0.20364204, z: 0.08521656, w: -0.8997307}
+    m_Value: {x: -0.29215607, y: 0.58967626, z: -0.2415751, w: -0.7131398}
   m_Size:
-    m_Target: 166.56628
+    m_Target: 246.27473
     speed: 2
-    m_Value: 166.56628
+    m_Value: 246.27473
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -488,19 +488,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/GoogleVR/Prefabs/Keyboard
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 39
   m_LastFolders:
-  - Assets/GoogleVR/Prefabs/Keyboard
+  - Assets
   m_LastFoldersGridSize: 39
   m_LastProjectPath: /Users/erikagangware/version-control/UnityProjects/640-Lasalle-master/640-lasalle
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 299}
-    m_SelectedIDs: 182f0000
-    m_LastClickedID: 12056
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: f82a0000
+    m_LastClickedID: 11000
     m_ExpandedIDs: 00000000f82a0000ba2b00001a2d0000fc2d0000d8b30000dcb3000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -554,8 +554,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 70f1ffff
-    m_LastClickedInstanceID: -3728
+    m_SelectedInstanceIDs: e42f0000
+    m_LastClickedInstanceID: 12260
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 80e9ffffdc250000e21c000064220000d42300002e260000fc230000a423000020baffff7e3fffff4838ffff802800001e270000a62300007a280000202700007c280000acf4fffff6e4ffff16280000ea290000ba3c0000e451ffff5463ffff482affff264c0300f8720100e05a00004e310000f22b00001c320000c83e0000623100007a3e00001a3200008237000076390000ba2a0000de2a0000a4330000d0370000582e0000e62b0000aa2b0000d42c0000a63400000835000098310000c233000058300000e20700000c300000363c000030300000803400002e2c00007ec500004e3300003e3400002e370000983000008c380000aa3b000040320000e22a0000062d00009437000026370000863f0000563d00002a310000ac3300007c2e00002c310000ae330000b6330000ce3700007a3c0000f63d00006431000016310000fa410000943f00000c3d00005a370000a03c0000e84100004e37000002480000ea380000363400004c430000a2490000104a00009842000080430000f23700004c460000ae430000363f00007a360000502e0000ae3f00005a3c00009e2e00004237000094330000dc400000703a000000000000ae2e0000465c0000b0370000f24200009cc50000162900009e270000ee290000ec2c0000cc290000
     m_RenameOverlay:
@@ -581,7 +581,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 12}
     m_GridSize: 39
   m_DirectoriesAreaWidth: 269
 --- !u!114 &13
@@ -637,7 +637,7 @@ MonoBehaviour:
   m_AnimEditor: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -3728
+  m_LastSelectedObjectID: 12260
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
