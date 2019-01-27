@@ -1,0 +1,58 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.187496374)
+
+newmtl JoinedMaterial_#1
+Kd 0.172549 0.172549 0.172549
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+
+newmtl ID433
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+Ns 10
+illum 2
+map_Kd Desk_And_Chair/HMI-3D01__Pellic1.JPG
+
+newmtl ID46
+Kd 0.184314 0.184314 0.184314
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+
+newmtl ID60
+Kd 0.439216 0.439216 0.439216
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+
+newmtl ID68
+Kd 0.6 0.6 0.6
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+map_Kd Desk_And_Chair/Metal_Corrogated_Shiny.jpg
+
+newmtl ID9
+Kd 1 1 1
+Ka 0.1 0.1 0.1
+Ks 0.4 0.4 0.4
+Ke 0 0 0
+d 1
+Ns 10
+illum 2
+
