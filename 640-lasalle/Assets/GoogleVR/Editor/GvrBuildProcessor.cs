@@ -79,3 +79,9 @@ class GvrBuildProcessor : IPreprocessBuild {
   }
 }
 #endif  // UNITY_ANDROID || UNITY_IOS
+
+#if UNITY_2018_1_OR_NEWER
+  public void OnPreprocessBuild(BuildReport report) {
+    OnPreprocessBuild(report.summary.platform, report.summary.outputPath);
+  }
+#endif
