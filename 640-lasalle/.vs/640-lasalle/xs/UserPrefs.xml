@@ -1,12 +1,9 @@
 ﻿<Properties StartupConfiguration="{8EE702A1-B3B8-433C-07F1-155C889C1D5F}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/WaypointLogic.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Desktop/640-lasalle-master/640-lasalle/Assets/GoogleVR/Editor/GvrBuildProcessor.cs">
     <Files>
-      <File FileName="Assets/GoogleVR/Scripts/GvrEditorEmulator.cs" Line="95" Column="23" />
-      <File FileName="Assets/GoogleVR/Scripts/EventSystem/GvrPointerPhysicsRaycaster.cs" Line="1" Column="1" />
-      <File FileName="Assets/Waypoint.cs" Line="61" Column="41" />
-      <File FileName="Assets/Plugins/Pixelplacement/iTween/iTween.cs" Line="1" Column="1" />
-      <File FileName="Assets/WaypointLogic.cs" Line="25" Column="15" />
+      <File FileName="Assets/WaypointLogic.cs" Line="26" Column="10" />
+      <File FileName="../../../../Desktop/640-lasalle-master/640-lasalle/Assets/GoogleVR/Editor/GvrBuildProcessor.cs" Line="84" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
