@@ -1,11 +1,11 @@
 
 ### About the starter project
 
-- The main project scene is located in the "SampleScene1" Scene in the assets
+- This project is still under construction
+- This project is a virtual reality and monoscopic screen tour of a Chicago office space
 - This project initially started in Unity 2018.2.15f1 and was rebuilt in Unity 2017.4.4
-- This project is an Augmented Reality tour of a Chicago office space
-- The author of this project is Erika Gangware
-- This initial build targets Android
+- The main project scene is located in the "SampleScene1" Scene in the assets
+- The initial build targets Android
 
 ### Versions Used
 
