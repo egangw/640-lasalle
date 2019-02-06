@@ -11785,7 +11785,7 @@ MeshRenderer:
   m_GameObject: {fileID: 470071567}
   m_Enabled: 1
   m_CastShadows: 1
-  m_ReceiveShadows: 1
+  m_ReceiveShadows: 0
   m_DynamicOccludee: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
@@ -18999,7 +18999,6 @@ GameObject:
   - component: {fileID: 731238957}
   - component: {fileID: 731238956}
   - component: {fileID: 731238959}
-  - component: {fileID: 731238960}
   - component: {fileID: 731238961}
   m_Layer: 0
   m_Name: Camera
@@ -19087,17 +19086,6 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   maxRaycastHits: 64
---- !u!114 &731238960
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 731238954}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 38256038a0fa7416a8df6ad87999d9e1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &731238961
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19106,7 +19094,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 731238954}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6ce9ee270e01d49629e29713fac341c8, type: 3}
+  m_Script: {fileID: 11500000, guid: 1d3baf69683df4b4b9dc4628504d2e25, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &735315297
