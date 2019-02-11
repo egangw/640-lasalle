@@ -9,8 +9,7 @@ public class WaypointLogic : MonoBehaviour
 
     public bool teleport;
 
-    private float heightAboveWaypoint = 0.7f;
-
+    private float heightAboveWaypoint = 0f;
 
     public void Move(GameObject waypoint)
     {
@@ -19,7 +18,7 @@ public class WaypointLogic : MonoBehaviour
             iTween.MoveTo(player,
                 iTween.Hash(
                     "position", new Vector3(waypoint.transform.position.x, waypoint.transform.position.y + heightAboveWaypoint, waypoint.transform.position.z),
-                    "time", .2f,
+                    "time", 1f,
                     "easetype", "linear"
                 )
             );
