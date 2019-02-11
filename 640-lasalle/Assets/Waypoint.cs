@@ -51,16 +51,6 @@ public class Waypoint : MonoBehaviour
 	[Header("Hide Distance")]
 	public float threshold						= 0.125f;
 
-    //adds toggle to turn teleport on or off to "slide movement"
-    public bool teleport;
-    //controls the slide movement height, makes it regular
-    private float heightAboveWaypoint = 0.7f;
-    // adds slot to reference camera/self
-    public GameObject player;
-    //adds slot to reference waypoint
-    public GameObject WaypointReference;
-
-
 
 	void Awake()
 	{		
@@ -176,26 +166,5 @@ public class Waypoint : MonoBehaviour
 		_scale					= Mathf.Lerp(_scale, 		0.0f, lerp_hide);
 		_color					= Color.Lerp(_color, Color.clear, lerp_hide);
 	}
-
-    //adds iTween logic
-    //iTween Plugin must be loaded in assets folder
-    //adds toggle logic
-    public void Move(GameObject waypoint)
-    {
-        if (!teleport)
-        {
-            iTween.MoveTo(player,
-                iTween.Hash(
-                    "position", new Vector3(waypoint.transform.position.x, waypoint.transform.position.y + heightAboveWaypoint, waypoint.transform.position.z),
-                    "time", .2f,
-                    "easetype", "linear"
-                )
-            );
-        }
-        else
-        {
-            player.transform.position = new Vector3(waypoint.transform.position.x, waypoint.transform.position.y + heightAboveWaypoint, waypoint.transform.position.z);
-        }
-    }
 
 }
